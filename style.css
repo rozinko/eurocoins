@@ -1,0 +1,50 @@
+
+table,
+p {
+    width: 800px;
+    margin: auto;
+    font-family: "Times New Roman";
+    font-weight: bold;
+}
+
+p {
+    margin-top: 20px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: darkcyan;
+}
+
+.coin2e {
+    width: 100px;
+}
+
+.coin1e {
+    width: 95px;
+}
+
+.coin50c {
+    width: 90px;
+}
+
+.coin20c {
+    width: 85px;
+}
+
+.coin10c {
+    width: 75px;
+}
+
+.coin5c {
+    width: 70px;
+}
+
+.coin2c {
+    width: 65px;
+}
+
+.coin1c {
+    width: 60px;
+}
